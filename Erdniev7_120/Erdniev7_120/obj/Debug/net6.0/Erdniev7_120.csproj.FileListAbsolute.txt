@@ -1,0 +1,15 @@
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\bin\Debug\net6.0\Erdniev7_120.exe
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\bin\Debug\net6.0\Erdniev7_120.deps.json
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\bin\Debug\net6.0\Erdniev7_120.runtimeconfig.json
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\bin\Debug\net6.0\Erdniev7_120.dll
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\bin\Debug\net6.0\Erdniev7_120.pdb
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\obj\Debug\net6.0\Erdniev7_120.csproj.AssemblyReference.cache
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\obj\Debug\net6.0\Erdniev7_120.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\obj\Debug\net6.0\Erdniev7_120.AssemblyInfoInputs.cache
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\obj\Debug\net6.0\Erdniev7_120.AssemblyInfo.cs
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\obj\Debug\net6.0\Erdniev7_120.csproj.CoreCompileInputs.cache
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\obj\Debug\net6.0\Erdniev7_120.dll
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\obj\Debug\net6.0\refint\Erdniev7_120.dll
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\obj\Debug\net6.0\Erdniev7_120.pdb
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\obj\Debug\net6.0\Erdniev7_120.genruntimeconfig.cache
+C:\Users\djang\source\repos\Erdniev7_120\Erdniev7_120\obj\Debug\net6.0\ref\Erdniev7_120.dll
